@@ -18,7 +18,7 @@
 ["Russia", "Denmark", "Kazan"] -> []
 
 1. Создала новый репозиторий на GitHub
-Клонировала ссылку созданного репозитория в VSCode https://github.com/OksanaSPb78/Final_Tasks
+Клонировала ссылку созданного репозитория в VSCode https://github.com/OksanaSPb78/Final_Tasks_1
 Инициализировала созданную папку
 Создала файл README.md в рабочей папке и сделала commit
 Создала файл .gitignore и сделала commit
